@@ -16,7 +16,7 @@
 * What sets Open Insurance apart is that it offers an Open Sandbox environment with detailed step-by-step guide complete with programming codes on their [webpage](https://developers.beopen.com/docs) to help its partners to quickly develop and test their app for business process and system integration. Essentially, it is a plug-and-play model where partners can choose to either become an affiliate by referring their customers to Huddle Insurance directly to get a quote or become a distributor where Huddle's platform is embeded on their website and integrated in their business process. 
 
 ## Landscape:
-* The nascent insurTech domain has attracted a lot of interests from serious investors within the insurance and banking and finance sectors. 
+* The nascent insurtech domain has attracted a lot of interests from serious investors within the insurance and banking and finance sectors. 
 * Traditionally, the insurance, banking and finance industry is heavily regulated. They are encumbered with multiple layers of legal ramifications that tend to discourage the incumbents from working with start-ups such as Open Insurance. However, with the growing interest that these start-ups have managed to garner from consumers who clearly prefer user-friendly, time-efficient and cost effective products, the incumbents can no longer afford to shy away from engaging with these start-up companies and some may even start targeting to acquire these fledgling businesses as they mature.
 * Fintech Australia, a lobby group made up of players within the industry, was formed back in 2016 to represent and advocate for the Australian fintech industry. It works closely with the government and the industry to develop new approach to accelerate innovation in the financial sector and drive consumer and business demand for fintech while ensuring that the security and stability of the financial system remains sound and intact.  
 * As the leading voice for the industry, Fintech Australia had successfully lobbied the government to introduce a legislative framework for an enchanced regulatory sandbox that enables fintech companies to test their financial products and services with their customers without the need to jump through too many hoops. The initial scope of the sandbox set by ASIC was considered too narrow as it had excluded mnarketplace lenders and fintechs from working in the areas of superannuation and life insurance. As a result, Fintech Australia responded by establishing a working group of relevant members from the finance and insurance industry to develop a policy framework and a set of recommendations that were ultimately adopted by the regulatory body.
@@ -48,3 +48,14 @@ The booming insurtech sector is a testament to the importance of power computing
 4. Insurtech lobby wants ASIC's 'sandbox' to be widened (https://www.afr.com/companies/financial-services/insurtechs-push-to-be-included-in-asics-fintech-regulatory-sandbox-20171020-gz57rs)
 5. Insurance tech start-up rebrands for US push after funding round (https://www.afr.com/technology/insurance-tech-start-up-rebrands-for-us-push-after-funding-round-20210516-p57sft)
 6. Open Insurance - Technical Documentation for Developers (https://developers.beopen.com/docs/getting-started)
+8. Open Insurance - Wikipedia (https://en.wikipedia.org/wiki/Open_Insurance)
+7. Huddle Insurance homepage (https://huddle.com.au/)
+9. Huddle Money raises $6m to create peer-to-peer bank (https://www.afr.com/technology/huddle-money-raises-6m-to-create-peertopeer-bank-20160616-gpkhj9)
+9. Kanopi homepage (https://www.kanopicover.com/)
+10. Cover Genius homepage (https://www.covergenius.com/)
+11. AP Intego homepage (https://apintego.com/)
+12. Why insurers are watching you from space (https://www.afr.com/companies/financial-services/why-insurers-are-watching-you-from-space-20171220-h07u8i)
+13. Ellerston Capital-backed Friendsurance launches insurance for bicycle riders (https://www.afr.com/companies/financial-services/ellerston-capitalbacked-friendsurance-launches-insurance-for-bicycle-riders-20170829-gy6n6v)
+14. Insurtech lobby gives up on ASIC 'sandbox' (https://www.afr.com/companies/financial-services/insurtech-lobby-gives-up-on-asic-sandbox-20180521-h10cch)
+16. The rise of P2P insurers to fill the trust gap (https://www.afr.com/companies/financial-services/the-rise-of-p2p-insurers-to-fill-the-trust-gap-20170809-gxsj62)
+15. QBE's VC arm makes first insurtech investment (https://www.afr.com/companies/financial-services/qbes-vc-arm-makes-first-insurtech-investment-20171026-gz8iae)
