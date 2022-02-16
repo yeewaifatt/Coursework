@@ -1,4 +1,4 @@
-# Fintech Case Study: Open Insurance [(Click to view Logo)](./Open_Logo.jpg)
+# Fintech Case Study: Open Insurance [(Click to view Logo)](./Open_Logo.JPG)
 ## Overview and Origin
 * Open Insurance ([www.beopen.com](https://www.beopen.com)) is a fintech company based in Australia and New Zealand.
 * The company was formed in 2016.
