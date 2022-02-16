@@ -1,4 +1,4 @@
-# Fintech Case Study: Open Insurance [(Click to view Logo)](./Open_Logo.JPG)
+# Fintech Case Study: Open Insurance [(Click to view Logo)](./Open_Logo.jpg)
 ## Overview and Origin
 * Open Insurance ([www.beopen.com](https://www.beopen.com)) is a fintech company based in Australia and New Zealand.
 * The company was formed in 2016.
@@ -38,3 +38,13 @@ How is your company performing, based on these metrics?
 * As an example of leveraging technology to create innovative product, it is now possible for people with similar characteristics to be grouped under a peer insurance scheme that refunds a portion of premiums they have paid if there have been no claims made by the end of the policy. This P2P innovation is reportedly the brainchild of Friendinsure, a German based fintech company that boasts James Packer-backed Ellerston Capital as one of their shareholders. 
 ## Conclusion
 The booming insurtech sector is a testament to the importance of power computing and information technology and the role the sector plays in disrupting the traditional insurance industry, and causing it to reimagine and push the frontiers. We are all witnessing an important chapter in the evolution of the insurance industry.
+
+---
+## Reference
+
+1. Huddle Insurance, an AI-powered Suncorp rival, raises $24m (https://www.afr.com/work-and-careers/careers/huddle-insurance-an-aipowered-suncorp-rival-raises-24m-20181127-h18f7t)
+2. QBE to make $50m insurtech spend (https://www.afr.com/companies/financial-services/qbe-to-make-50m-insurtech-spend-20170302-gup7n3)
+3. Step inside IAG's insurtech hub Firemark Labs (https://www.afr.com/companies/financial-services/step-inside-iags-insurtech-hub-firemark-labs-20170407-gvfs4q)
+4. Insurtech lobby wants ASIC's 'sandbox' to be widened (https://www.afr.com/companies/financial-services/insurtechs-push-to-be-included-in-asics-fintech-regulatory-sandbox-20171020-gz57rs)
+5. Insurance tech start-up rebrands for US push after funding round (https://www.afr.com/technology/insurance-tech-start-up-rebrands-for-us-push-after-funding-round-20210516-p57sft)
+6. Open Insurance - Technical Documentation for Developers (https://developers.beopen.com/docs/getting-started)
